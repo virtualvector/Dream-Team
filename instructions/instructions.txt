@@ -1,0 +1,23 @@
+adminid- admin@admin.com
+adminpassoword - admin2016
+
+userid - rohithrajreganti@gmail.com
+userpassword - rohith
+
+
+how to start app :
+
+nagivate to porject folder
+in terminal : source /dream-team-env/bin/activate
+in terminal : export FLASK_CONFIG=development
+in terminal : export FLASK_APP=run.py
+in terminal : flask run
+
+in web go to localhost:5000
+
+
+sql related
+
+mysql -u root -p
+password is vector
+you can get details there
