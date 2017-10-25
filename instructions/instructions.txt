@@ -8,7 +8,7 @@ userpassword - rohith
 how to start app :
 
 nagivate to porject folder
-in terminal : source /dream-team-env/bin/activate
+in terminal : source dream_team/bin/activate
 in terminal : export FLASK_CONFIG=development
 in terminal : export FLASK_APP=run.py
 in terminal : flask run
