@@ -1,0 +1,10 @@
+1. download from github
+2. delete the virtualenivironment named dream_team
+3. create a new virtualenv using the following
+    virtualenv dream_team
+
+4. source dream_team/bin/activate
+5. pip install -r requirements.txt
+6. export FLASK_CONFIG=development
+7. export FLASK_APP=run.py
+8. flask run
